@@ -1,6 +1,6 @@
 📄 PDF Reader with Highlight Tool (Python)
 
-A simple PDF Reader application built with Python and Tkinter that allows users to open PDF files, navigate pages, zoom in/out, and highlight sections of the document.
+A simple PDF Reader application built with Python and Tkinter that allows users to open PDF files, navigate pages, zoom in/out, and highlight sections of the document. 
 
 This project uses PyMuPDF (fitz) for PDF processing and Tkinter for the graphical user interface.
 
